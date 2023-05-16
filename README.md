@@ -33,5 +33,33 @@ To get this project up and running, you'll need to have the following installed:
 
 After installing the above, clone the repository to your local machine:
 
-git clone 
+git clone https://github.com/MaskedAlkindi/React-with-CPlusPlus.git
+
+redirect to the react directory named "nummericalhw" and run the following command 
+
+npm install 
+
+This will install the nesscary depencices for the react file.
+
+Youll have to change the following: 
+
+1. The file path to your complied C++ Program in the file 'server.js" the path that was used is mine youll have to change it to yours. 
+
+
+##To Run the Program 
+### instrcutions 
+1. Redirect to your react directory using cmd and run " npm start " 
+2. Redirect to node.js using cmd and run " node server.js"
+
+### Make sure of the following:
+1.Make sure to have react running in port 3000 and node.js running in port 3005, you can change this as much as you want but make sure     to change the code to whatever changes you made.
+2. The file paths to your complied C++ Programs in the file 'server.js" the path that was used is mine youll have to change it to yours. 
+
+
+
+
+
+
+
+
 
